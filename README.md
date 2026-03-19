@@ -7,6 +7,7 @@ This repository is for Revue 3.0 Workshops related to LEAF and LINCS tools.
 * If you would like to access documents through GitHub, ensure you have a GitHub account and are signed into it before the workshop starts.
 * If you would like to experiment with the Context Explorer, ensure you have installed the plugin before the workshop starts.
 
+## Links
 **LEAF (Linked Editing Academic Framework) tools:**
 * Access [LEAF-Writer on LEAF Commons](https://leaf-writer.leaf-vre.org/)
 * Access the [Named Entity Reconciliation Vetting Environment (NERVE)](https://nerve.lincsproject.ca/en)
