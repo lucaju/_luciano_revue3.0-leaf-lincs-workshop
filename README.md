@@ -10,7 +10,7 @@ This repository is for Revue 3.0 Workshops related to LEAF and LINCS tools.
 * Access the Revue3.0-LEAF/LINCS Workshop https://github.com/LEAF-VRE/revue3.0-leaf-lincs-workshop
 * “Fork” the workshop training material (see this [video](https://youtu.be/pXEs8OQRNmk) for instructions)
 * [Log into LEAF-Writer Commons](https://leaf-writer.leaf-vre.org/) with your GitHub credentials.
-*** Make sure to accept cookies, and then click “Sign in with GitHub.” You will be asked to authorize the LINCS authentication service, “calincs”. ***
+* Make sure to accept cookies, and then click “Sign in with GitHub.” You will be asked to authorize the LINCS authentication service, “calincs”. *
 
 * If you want to experiment with the [Context Explorer](https://lincsproject.ca/docs/tools/context-explorer), ensure you have installed the plugin on a Chromium Browser before the workshop starts.
 
