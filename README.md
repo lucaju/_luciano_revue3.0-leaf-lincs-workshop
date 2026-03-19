@@ -17,6 +17,7 @@ This repository is for Revue 3.0 Workshops related to LEAF and LINCS tools.
 * Access the [LINCS Context Explorer](https://lincsproject.ca/docs/tools/context-explorer) by installing it as a plugin in any Chromium Browser (e.g. Chrome, Edge) from the [Chrome Store](https://chromewebstore.google.com/detail/context-explorer/ingihipdallefgbcbnkanjnhlkdkjecf)).
 **Context Explorer links:**
 * [Le Journal de Virginia Woolf ou l’invention d’une voix « à soi »](https://journals.openedition.org/itineraires/1111)
+  
 **Note:** the Context Explorer is also available as a library that can also be installed on a website.
 
 ## Questions? 
